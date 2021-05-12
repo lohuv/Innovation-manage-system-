@@ -40,7 +40,7 @@
     "autoprefixer": "^9.7.6",
     "cssnext": "^1.8.4",
     "gulp": "^4.0.2",
-    "postcss": "^7.0.27",
+    "postcss": "^8.2.10",
     "postcss-px-to-viewport": "^1.1.1",
     "precss": "^4.0.0",
     "vue-template-compiler": "^2.6.10"
